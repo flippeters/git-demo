@@ -1,0 +1,5 @@
+ls
+echo -n "Enter the name of a file: "
+read myFile
+git add $myFile
+git status
